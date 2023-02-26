@@ -1,0 +1,23 @@
+.img1 {
+  width: 15rem;
+  height: 15rem;
+  border: solid black .5rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+
